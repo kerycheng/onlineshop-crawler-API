@@ -39,7 +39,7 @@ docker run -it kerycheng/django-crawler-api:0.3 /bin/bash
 1. 下載此專案  
 
 ```bash
-git https://github.com/kerycheng/onlineshop-crawler-api.git
+git https://github.com/kerycheng/onlineshop-crawler-API.git
 ```
 
 2. 切換目錄  
